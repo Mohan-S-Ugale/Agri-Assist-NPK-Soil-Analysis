@@ -155,6 +155,7 @@ Artificial Intelligence & Data Science Engineer
 📧 **Email:** mohanugale.tech@gmail.com
 
 💼 **LinkedIn:** https://linkedin.com/in/mohan-ugale
+
 ---
 
 ## ⭐ Support
