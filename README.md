@@ -47,7 +47,7 @@ The project aims to promote efficient fertilizer usage and sustainable farming p
 
 ### Database
 
-- MySQL / SQLite
+- MySQL
 
 ---
 
