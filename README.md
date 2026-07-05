@@ -43,18 +43,11 @@ The project aims to promote efficient fertilizer usage and sustainable farming p
 
 ### Backend
 
-- Python
-- Flask
+- PHP
 
 ### Database
 
 - MySQL / SQLite
-
-### Libraries
-
-- NumPy
-- Pandas
-- Scikit-learn
 
 ---
 
