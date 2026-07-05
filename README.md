@@ -105,6 +105,7 @@ Display Results
 <p align="center">
 <img src="Images/NPKReport.png" width="700">
 </p>
+
 ---
 
 ## 📂 Repository Structure
