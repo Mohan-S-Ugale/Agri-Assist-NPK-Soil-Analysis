@@ -113,12 +113,26 @@ Display Results
 ```text
 Agri-Assist-NPK-Soil-Analysis
 │
-├── Images/
-├── Documentation/
-├── Demo/
-├── Sample_Code/
 ├── README.md
-└── LICENSE
+├── LICENSE
+│
+├── Documentation/
+│   └── Research_Paper.pdf
+│
+├── Images/
+│   ├── HomePage.png
+│   ├── NPKReport.png
+│   ├── NPKValues.png
+│   └── Farm_Equipment_Rental.png
+│
+└── Sample_Code/
+    ├── crop_management.php
+    ├── equipment.php
+    ├── equipments_booked.php
+    ├── n_urea.php
+    ├── p_urea.php
+    └──  k_urea.php
+    
 ```
 
 ---
