@@ -78,26 +78,33 @@ Display Results
 
 ### Home Page
 
-*(Add screenshot)*
+<p align="center">
+<img src="Images/HomePage.png" width="700">
+</p>
 
 ---
 
-### Soil Analysis
+### Farm Equipment Rental Module
 
-*(Add screenshot)*
-
----
-
-### Crop Recommendation
-
-*(Add screenshot)*
+<p align="center">
+<img src="Images/Farm_Equipment_Rental.png" width="700">
+</p>
 
 ---
 
-### Fertilizer Recommendation
+### NPK Input Module
 
-*(Add screenshot)*
+<p align="center">
+<img src="Images/NPKValues.png" width="700">
+</p>
 
+---
+
+### NPK Report and Fertilizer Recommendation
+
+<p align="center">
+<img src="Images/NPKReport.png" width="700">
+</p>
 ---
 
 ## 📂 Repository Structure
