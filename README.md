@@ -148,12 +148,13 @@ The complete implementation is intentionally not publicly available because it i
 
 ## 👨‍💻 Author
 
-**Monu Ugale**
+**Mohan Ugale**
 
 Artificial Intelligence & Data Science Engineer
 
-📧 mohanugale.tech@gmail.com
+📧 **Email:** mohanugale.tech@gmail.com
 
+💼 **LinkedIn:** https://linkedin.com/in/mohan-ugale
 ---
 
 ## ⭐ Support
